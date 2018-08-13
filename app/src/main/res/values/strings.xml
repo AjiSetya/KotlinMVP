@@ -3,4 +3,9 @@
     <string name="alas">Alas</string>
     <string name="tinggi">Tinggi</string>
     <string name="btnhitung">Hitung</string>
+    <string name="btnsegitiga">hitung segitiga</string>
+    <string name="btnlogin">login example</string>
+    <string name="txtemail">Your Email</string>
+    <string name="txtpassword">Your Password</string>
+    <string name="btndologin">login</string>
 </resources>
